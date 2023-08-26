@@ -39,7 +39,7 @@ I'm currently studying Systems Analysis and Development at [Belas Artes](https:/
 &nbsp; **Currently playing**:
 
 <!-- spotify embend -->
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31ztnrnie73xqy6h73mrikhkdnmq&cover_image=true&theme=compact&show_offline=false&background_color=121212&interchange=true)](https://spotify-github-profile.vercel.app/api/view?uid=31ztnrnie73xqy6h73mrikhkdnmq&redirect=true)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31ztnrnie73xqy6h73mrikhkdnmq&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true&bar_color=ff40ff&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 
 <!-- quote -->
 ***Keep your mind a happy place*** ⚡️ 🥥 ⚔️ ☕️ 🧘‍♀️ 📿 🔮 🎰 
